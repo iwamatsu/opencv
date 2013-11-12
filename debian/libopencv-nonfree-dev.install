@@ -1,0 +1,3 @@
+usr/include/opencv2/nonfree/*
+usr/lib/*/libopencv_nonfree.a
+usr/lib/*/libopencv_nonfree.so
